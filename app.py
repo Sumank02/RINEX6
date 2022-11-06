@@ -9,7 +9,8 @@ if st.button('predict'):
   st.title(op[0]) #st.button will create a button with the name predict
   #st.title(op[0]) #the zeroth element in op variable is displayed as a title
 
-  
-  
-  
-  
+      
+            
+              
+            
+          
